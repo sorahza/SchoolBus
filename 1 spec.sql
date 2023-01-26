@@ -38,21 +38,21 @@
 /*Sample Data
 LastName	FirstName	Class	stop	AM	PM	Friday
 Lincoln	Abraham	4-101	19th ave corner 45th st	A-JKL	P-JKL	F-JKL
-Jackson	Andrew	8-100	13th ave corner 50th st	A-ABC	P-ABC	F-ABC
+Jackson	Andrew	8-100	13th ave corner 50th st	A-ABC	P-JKL	F-GHI
 Johnson	Andrew	4-101	18th ave corner 48th st	A-JKL	P-JKL	F-JKL
-Obama	Barack	8-104	17th ave corner 39th st	A-GHI	P-GHI	F-GHI
-Harrison	Benjamin	4-102	15th ave corner 54th st	A-DEF	P-DEF	F-DEF
-Coolidge	Calvin	6-102	13th ave corner 45th st	A-ABC	P-ABC	F-ABC
-Arthur	Chester	4-102	13th ave corner 54th st	A-ABC	P-ABC	F-ABC
+Obama	Barack	8-104	17th ave corner 39th st	A-ABC	P-GHI	F-GHI
+Harrison	Benjamin	4-102	15th ave corner 54th st	A-DEF	P-GHI	F-DEF
+Coolidge	Calvin	6-102	13th ave corner 45th st	A-DEF	P-ABC	F-ABC
+Arthur	Chester	4-102	13th ave corner 54th st	A-GHI	P-ABC	F-ABC
 Trump	Donald	4-104	18th ave corner 39th st	A-JKL	P-JKL	F-JKL
-Eisenhower	Dwight David	8-103	17th ave corner 45th st	A-GHI	P-GHI	F-GHI
+Eisenhower	Dwight David	8-103	17th ave corner 45th st	A-GHI	P-JKL	F-GHI
 Pierce	Franklin	4-101	19th ave corner 45th st	A-JKL	P-JKL	F-JKL
-Roosevelt	Franklin Delano	5-103	15th ave corner 45th st	A-DEF	P-DEF	F-DEF
+Roosevelt	Franklin Delano	5-103	15th ave corner 45th st	A-DEF	P-ABC	F-DEF
 Washington	George	8-100	15th ave corner 46th st	A-DEF	P-DEF	F-DEF
 Bush	George H. W.	4-104	14th ave corner 39th st	A-DEF	P-DEF	F-DEF
 Bush	George W.	8-104	16th ave corner 39th st	A-GHI	P-GHI	F-GHI
 Ford	Gerald R.	3-103	11th ave corner 39th st	A-ABC	P-ABC	F-ABC
-Cleveland	Grover	4-102	14th ave corner 54th st	A-DEF	P-DEF	F-DEF
+Cleveland	Grover	4-102	14th ave corner 54th st	A-DEF	P-DEF	F-ABC
 Cleveland	Grover	4-102	16th ave corner 54th st	A-GHI	P-GHI	F-GHI
 Truman	Harry S	8-103	16th ave corner 45th st	A-GHI	P-GHI	F-GHI
 Hoover	Herbert C.	4-103	14th ave corner 45th st	A-DEF	P-DEF	F-DEF
