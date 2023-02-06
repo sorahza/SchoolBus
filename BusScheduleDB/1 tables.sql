@@ -1,6 +1,6 @@
 use BusScheduleDB
 go
-drop table if exists StudentBusSchedule
+drop table if exists StudentTransportation
 go
 
 create table dbo.StudentTransportation(
